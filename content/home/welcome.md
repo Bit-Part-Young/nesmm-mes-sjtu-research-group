@@ -1,23 +1,18 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+widget: hero
+widget_id: RECENT-POSTS
+headless: true
+weight: 10
+title: NESMM-MSE-SJTU  Research Group
+subtitle: 上海交通大学材料学院非平衡凝固与亚稳材料课题组
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
+hero_media: welcome.jpg
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+
+上海交通大学材料科学与工程学院非平衡凝固与亚稳材料课题组创建于1999年，主要从事非平衡凝固理论与技术、非晶态合金、纳米晶金属、先进钢铁材料和计算材料学领域的研究与教学。
